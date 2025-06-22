@@ -21,8 +21,8 @@ Once the project meets the engagement goals:
 2. Leave a comment with your thoughts or questions.
 3. Share the project with others who might benefit from it.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+## Video
+Project Video: https://youtu.be/LOPnZclka0o
 
 ## Contact
 For inquiries or collaboration opportunities, please reach out via GitHub.
