@@ -3,14 +3,10 @@
 ## Overview
 This project focuses on applying data analytics techniques to the sales domain. The goal is to derive insights that can help improve sales performance and drive business strategies.
 
-## Current Status
-For now, I am sharing the Excel sheet that contains the foundational data analysis. Additional files and resources will be made available once the project receives 100 likes and 50 comments.
-
 ## Excel Sheet
 - The Excel file provided in the repository is used in the project.
 
-## Future Releases
-Once the project meets the engagement goals:
+## Files Included
 - Detailed reports
 - Code files
 - Documentation on analytics methodologies
